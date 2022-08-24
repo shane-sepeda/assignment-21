@@ -1,8 +1,8 @@
 # assignment-21
-Regex Tutorial
+Book Search Engine
 
 # Description
-A tutorial to explain different regex
+A database to search for new books and keep a favorites list
 
 # User Story
 AS AN avid reader
